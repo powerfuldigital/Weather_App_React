@@ -1,0 +1,23 @@
+.StrictMode {
+  border: black solid 4px;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Search {
+  display: flex;
+  justify-content: center;
+}
+
+.conditions {
+  diplay: flex;
+  justify-content: center;
+}
+
+.Loading {
+  margin-top: 10px;
+  text-align: center;
+}
