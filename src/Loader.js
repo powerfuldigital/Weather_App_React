@@ -1,5 +1,6 @@
 import React from "react";
 import Loader from "react-loader-spinner";
+import "./styles.css";
 
 export default class Loading extends React.Component {
   render() {
